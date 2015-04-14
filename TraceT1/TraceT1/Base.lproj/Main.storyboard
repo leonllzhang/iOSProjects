@@ -22,14 +22,26 @@
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RjN-uQ-Gfn">
                                 <rect key="frame" x="0.0" y="556" width="600" height="44"/>
                                 <items>
-                                    <barButtonItem title="ZOOM" id="LMN-mH-mWY"/>
-                                    <barButtonItem title="TYPE" id="Sa6-Uw-atw"/>
+                                    <barButtonItem title="ZOOM" id="LMN-mH-mWY">
+                                        <connections>
+                                            <action selector="ZoomIn:" destination="vXZ-lx-hvc" id="Lvn-9C-amA"/>
+                                        </connections>
+                                    </barButtonItem>
+                                    <barButtonItem title="TYPE" id="Sa6-Uw-atw">
+                                        <connections>
+                                            <action selector="changemapType:" destination="vXZ-lx-hvc" id="J1V-l6-4Pu"/>
+                                        </connections>
+                                    </barButtonItem>
                                 </items>
                             </toolbar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="GlU-GB-DoX"/>
+                    <connections>
+                        <outlet property="btnzoom" destination="LMN-mH-mWY" id="rzH-u9-5AF"/>
+                        <outlet property="mapview" destination="J7B-os-dsg" id="fuf-Af-n8P"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>

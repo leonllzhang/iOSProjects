@@ -7,14 +7,28 @@
 //
 
 import UIKit
+import MapKit
 
-class ViewController: UIViewController {
 
+class ViewController: UIViewController,MKMapViewDelegate {
+
+    @IBOutlet weak var mapview: MKMapView!
+    @IBOutlet weak var btnzoom: UIBarButtonItem!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        mapview.showsUserLocation = true
     }
 
+    @IBAction func ZoomIn(sender: UIBarButtonItem) {
+        let userlocation = mapview.userLocation
+        let region = MKCoordinateRegionMakeWithDistance(userlocation.location.coordinate, 200,200)
+        
+        mapview.setRegion(region, animated: true)
+        
+    }
+    @IBAction func changemapType(sender: UIBarButtonItem) {
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
