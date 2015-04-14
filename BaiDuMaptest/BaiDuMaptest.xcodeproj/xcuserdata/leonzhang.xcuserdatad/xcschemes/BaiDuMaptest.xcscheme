@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4850C9B1ACD85B100CCC11B"
-               BuildableName = "tracetest.app"
-               BlueprintName = "tracetest"
-               ReferencedContainer = "container:tracetest.xcodeproj">
+               BlueprintIdentifier = "C484482B1AD4C11800609EA9"
+               BuildableName = "BaiDuMaptest.app"
+               BlueprintName = "BaiDuMaptest"
+               ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4850CB01ACD85B100CCC11B"
-               BuildableName = "tracetestTests.xctest"
-               BlueprintName = "tracetestTests"
-               ReferencedContainer = "container:tracetest.xcodeproj">
+               BlueprintIdentifier = "C48448401AD4C11800609EA9"
+               BuildableName = "BaiDuMaptestTests.xctest"
+               BlueprintName = "BaiDuMaptestTests"
+               ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4850CB01ACD85B100CCC11B"
-               BuildableName = "tracetestTests.xctest"
-               BlueprintName = "tracetestTests"
-               ReferencedContainer = "container:tracetest.xcodeproj">
+               BlueprintIdentifier = "C48448401AD4C11800609EA9"
+               BuildableName = "BaiDuMaptestTests.xctest"
+               BlueprintName = "BaiDuMaptestTests"
+               ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4850C9B1ACD85B100CCC11B"
-            BuildableName = "tracetest.app"
-            BlueprintName = "tracetest"
-            ReferencedContainer = "container:tracetest.xcodeproj">
+            BlueprintIdentifier = "C484482B1AD4C11800609EA9"
+            BuildableName = "BaiDuMaptest.app"
+            BlueprintName = "BaiDuMaptest"
+            ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4850C9B1ACD85B100CCC11B"
-            BuildableName = "tracetest.app"
-            BlueprintName = "tracetest"
-            ReferencedContainer = "container:tracetest.xcodeproj">
+            BlueprintIdentifier = "C484482B1AD4C11800609EA9"
+            BuildableName = "BaiDuMaptest.app"
+            BlueprintName = "BaiDuMaptest"
+            ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4850C9B1ACD85B100CCC11B"
-            BuildableName = "tracetest.app"
-            BlueprintName = "tracetest"
-            ReferencedContainer = "container:tracetest.xcodeproj">
+            BlueprintIdentifier = "C484482B1AD4C11800609EA9"
+            BuildableName = "BaiDuMaptest.app"
+            BlueprintName = "BaiDuMaptest"
+            ReferencedContainer = "container:BaiDuMaptest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
