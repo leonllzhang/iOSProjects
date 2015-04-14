@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4D8ABDD1AC5A4FE000E85F6"
-               BuildableName = "GDMap.app"
-               BlueprintName = "GDMap"
-               ReferencedContainer = "container:GDMap.xcodeproj">
+               BlueprintIdentifier = "C48448B31AD507FC00609EA9"
+               BuildableName = "BaiMapTest2.app"
+               BlueprintName = "BaiMapTest2"
+               ReferencedContainer = "container:BaiMapTest2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4D8ABF21AC5A4FE000E85F6"
-               BuildableName = "GDMapTests.xctest"
-               BlueprintName = "GDMapTests"
-               ReferencedContainer = "container:GDMap.xcodeproj">
+               BlueprintIdentifier = "C48448C81AD507FC00609EA9"
+               BuildableName = "BaiMapTest2Tests.xctest"
+               BlueprintName = "BaiMapTest2Tests"
+               ReferencedContainer = "container:BaiMapTest2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C4D8ABF21AC5A4FE000E85F6"
-               BuildableName = "GDMapTests.xctest"
-               BlueprintName = "GDMapTests"
-               ReferencedContainer = "container:GDMap.xcodeproj">
+               BlueprintIdentifier = "C48448C81AD507FC00609EA9"
+               BuildableName = "BaiMapTest2Tests.xctest"
+               BlueprintName = "BaiMapTest2Tests"
+               ReferencedContainer = "container:BaiMapTest2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4D8ABDD1AC5A4FE000E85F6"
-            BuildableName = "GDMap.app"
-            BlueprintName = "GDMap"
-            ReferencedContainer = "container:GDMap.xcodeproj">
+            BlueprintIdentifier = "C48448B31AD507FC00609EA9"
+            BuildableName = "BaiMapTest2.app"
+            BlueprintName = "BaiMapTest2"
+            ReferencedContainer = "container:BaiMapTest2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4D8ABDD1AC5A4FE000E85F6"
-            BuildableName = "GDMap.app"
-            BlueprintName = "GDMap"
-            ReferencedContainer = "container:GDMap.xcodeproj">
+            BlueprintIdentifier = "C48448B31AD507FC00609EA9"
+            BuildableName = "BaiMapTest2.app"
+            BlueprintName = "BaiMapTest2"
+            ReferencedContainer = "container:BaiMapTest2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C4D8ABDD1AC5A4FE000E85F6"
-            BuildableName = "GDMap.app"
-            BlueprintName = "GDMap"
-            ReferencedContainer = "container:GDMap.xcodeproj">
+            BlueprintIdentifier = "C48448B31AD507FC00609EA9"
+            BuildableName = "BaiMapTest2.app"
+            BlueprintName = "BaiMapTest2"
+            ReferencedContainer = "container:BaiMapTest2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
