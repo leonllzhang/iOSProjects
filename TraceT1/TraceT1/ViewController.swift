@@ -28,6 +28,12 @@ class ViewController: UIViewController,MKMapViewDelegate {
         
     }
     @IBAction func changemapType(sender: UIBarButtonItem) {
+        if mapview.mapType == MKMapType.Standard {
+            mapview.mapType = MKMapType.Satellite
+        }
+        else    {
+            mapview.mapType = MKMapType.Standard
+        }
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
